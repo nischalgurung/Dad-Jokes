@@ -57,6 +57,20 @@ h3 {
     transform: scale(0.98);
 }
 
+.footer {
+    text-align: center;
+}
+
+.footer-text {
+    color: white;
+}
+
+.icon {
+    color: white;
+    font-size: 1.4rem;
+    margin: 0.2rem 0.8rem;
+}
+
 @media(max-width:400px) {
     .joke {
         font-size: 24px;
